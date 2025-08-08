@@ -1,2 +1,4 @@
-﻿spring: application: name: order
+spring: 
+  application: 
+    name: order
 
